@@ -1,3 +1,6 @@
+## 1.0.4
+ - Docs: Add link to conceptual docs about the dead letter queue
+
 ## 1.0.3
  - Docs: Fixed error in example plus made a few edits
  
